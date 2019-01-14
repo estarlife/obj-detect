@@ -1,3 +1,4 @@
+tinymind运行地址：https://www.tinymind.com/executions/almdjgx6
 一、protoc使用
 1.在Linux下没有问题，需要注意路径，运行时需要在research目录下进行，因为object_detection/protos里面的proto文件里都写死了路径“object_detection/protos”
 ```
